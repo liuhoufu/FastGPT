@@ -1,6 +1,6 @@
 {
   "FeConfig": {
-    "show_emptyChat": true,
+    "show_emptyChat": false,
     "show_register": true,
     "show_appStore": false,
     "show_userDetail": true,
